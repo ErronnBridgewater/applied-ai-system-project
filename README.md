@@ -1,4 +1,4 @@
-Original Project: PawPal+
+Final Project: PawPal+
 
 Summary: PawPal+ is an intelligent assistant built in Python to track the user's pet care activities like feeding, walking, and grooming. It is designed to manage multi-pet households. in a chronological queue. By leveraging an Agentic Workflow, it not only lists tasks but also analyzes pet health, owner energy levels, and time constraints to generate a realistic, optimized schedule that prioritizes the wellbeing of the pet. 
 
